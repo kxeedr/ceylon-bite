@@ -5,7 +5,7 @@ pubDate: '2025-11-20'
 
 ## Introduction
 
-Hi, I’m Malshan a.k.a CeyloneBite ([CeyloneBite](https://github.com/ezpzk) on GitHub). I finally decided to create my own personal website. This site will be my primary space to share ideas, thoughts and showcase my work. I’ve always disliked platforms like Instagram and Facebook, but I still have profiles there because yeah I like to waste my time by watching reels.
+Hi, I’m Malshan a.k.a CeylonBite ([CeylonBite](https://github.com/ezpzk) on GitHub). I finally decided to create my own personal website. This site will be my primary space to share ideas, thoughts and showcase my work. I’ve always disliked platforms like Instagram and Facebook, but I still have profiles there because yeah I like to waste my time by watching reels.
 
 The thoughts I share here are mine and not AI-generated, because I want this website to reflect *who I am*, not what I want others to *think* I am. I’ll try to write regularly, but I’m not the type of person to follow strict schedules. So, forgive me if I take breaks when inspiration doesn’t strike, and I'm trying my best to write in English.
 
@@ -21,7 +21,7 @@ I hope this website serves as a sort of time capsule, preserving my thoughts lon
 
 ## About This Website
 
-You’ll notice this website is simple, minimal, and doesn’t feature a lot of the flashy animations you typically see in portfolio & blog sites. That’s because I wanted it to be a true representation of who I am, minimal and functional. I don’t like bloat, and my workflows and environments are often pared down to the essentials. That said, aesthetics matter too, as we often *see* before we *read*. I think this website looks good *despite* being minimal.
+You’ll notice this website is simple, minimal, and doesn’t feature a lot of the flashy animations you typically see in portfolio and blog sites. That’s because I wanted it to be a true representation of who I am, minimal and functional. I don’t like bloat, and my workflows and environments are often pared down to the essentials. That said, aesthetics matter too, as we often *see* before we *read*. I think this website looks good *despite* being minimal.
 
 <!-- As plagiarism is bad (I’m sure [hbomberguy](https://youtu.be/yDp3cB5fHXQ?si=ylsRkmRivSJdJ32L) would agree), I’d like to give credit where it’s due:
 
